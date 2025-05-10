@@ -1,2 +1,2 @@
-# Bootcamp-Entrega-2
-Entrega 2 da matéria de Bootcamp
+# Bootcamp
+Esse repositório foi divido em três partes e cada uma delas contém as atividades solicitadas pelo professor. 
