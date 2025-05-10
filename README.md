@@ -3,7 +3,7 @@ Este repositório contém o projeto acadêmico, solicitado pela matéria de boot
 
 # Contato
 Linkedln: www.linkedin.com/in/rubenscorado
-Email: rubensscorado@gmail.com.
+Email: rubensscorado@gmail.com
 
 
 
