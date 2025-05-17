@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Portfólio Rubens</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+    }
+    header {
+      background-color: #007bff;
+      color: white;
+      padding: 20px 0;
+      text-align: center;
+    }
+    section {
+      padding: 20px;
+      max-width: 900px;
+      margin: auto;
+      background: white;
+      margin-top: 20px;
+      border-radius: 8px;
+    }
+    h2 {
+      color: #333;
+    }
+    a {
+      color: #007bff;
+      text-decoration: none;
+    }
+    footer {
+      text-align: center;
+      padding: 10px;
+      background-color: #007bff;
+      color: white;
+      margin-top: 30px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Portfólio Hub - Rubens</h1>
+</header>
+
+<section>
+  <h2>Perfil Pessoal</h2>
+  <p>Eu me chamo <strong>Rubens</strong> e sou estudante do curso de Ciências da Computação há 1 ano e 6 meses. Tenho 20 anos e, atualmente, sou estagiário da empresa <strong>Ília Digital</strong> há cerca de dez meses, onde tenho desenvolvido e aprendido bastante sobre a plataforma de CRM Salesforce.</p>
+  <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/rubenscorado" target="_blank">linkedin.com/in/rubenscorado</a><br>
+     <strong>Email:</strong> <a href="mailto:rubensscorado@gmail.com">rubensscorado@gmail.com</a><br>
+     <strong>Telefone:</strong> (61) 98491-5797</p>
+</section>
+
+<section>
+  <h2>Currículo</h2>
+  <p>Quando iniciei a minha jornada acadêmica, fiz um semestre do curso de Ciências Biológicas, mas acabei mudando para Ciências da Computação, onde estou há um ano e meio.</p>
+  <p>Durante esse tempo, consegui um estágio na empresa <strong>Ília Digital</strong>, onde aprendi sobre Salesforce, testei meus conhecimentos e obtive certificações.</p>
+  <p>Tenho facilidade com a língua inglesa (8 anos de estudo) e experiência com trabalho em equipe. Também fiz 7 anos de aula de música e aprendi violão, ukulele e teclado, o que ajudou no desenvolvimento da minha criatividade.</p>
+</section>
+
+<section>
+  <h2>Projeto Profissional</h2>
+  <p>Projeto realizado no estágio:</p>
+  <p><a href="https://docs.google.com/presentation/d/1_EshhCkMEvNbe79L2eD8wh24xOKlYaoRUUOUNkFbSqk/edit?usp=sharing" target="_blank">Ver Projeto</a></p>
+</section>
+
+<section>
+  <h2>Recomendações</h2>
+  <p><strong>Fabrício Corado de Sousa</strong> (Estagiário de Salesforce na Ília Digital):</p>
+  <blockquote>
+    Rubens é uma pessoa extremamente dedicada e comprometida. Trabalha bem em equipe e tem uma comunicação clara. É um profissional valioso e confiável.
+  </blockquote>
+
+  <p><strong>Rafaela Souza</strong> (Estagiária de Salesforce na Ília Digital):</p>
+  <blockquote>
+    Rubens é comprometido, colaborativo e se destaca pela facilidade em trabalhar em equipe. Sua comunicação clara contribui para um ambiente produtivo.
+  </blockquote>
+</section>
+
+<footer>
+  &copy; 2025 Rubens Corado - Todos os direitos reservados
+</footer>
+
+</body>
+</html>
